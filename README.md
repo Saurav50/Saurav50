@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdev & designing
 - 🌱 I’m currently learning front-end dev & figma(ui/ux)
 - 💞️ I’m looking to collaborate on open sources...
-- 📫 Reach me at https://www.linkedin.com/in/saurav-kumar-jha-885337223/ & mail me at mastersaurav50@gmai.com
+- 📫 Reach me at-linktr.ee/Saurav50
 
 <!---
 Saurav50/Saurav50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
