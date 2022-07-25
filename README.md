@@ -1,6 +1,6 @@
 -  Hi, I’m @Saurav50
 -  I’m interested in Webdev & designing
--  I’m currently learning front-end dev & figma(ui/ux)
+-  I’m currently learning C++ , front-end dev & figma(ui/ux)
 -  I’m looking to collaborate on open sources...
 -  Reach me at- https://linktr.ee/Saurav50
 
