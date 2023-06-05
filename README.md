@@ -1,7 +1,7 @@
 ![github](https://user-images.githubusercontent.com/98273408/194000895-96087cf5-5a48-463d-8e96-94b6bbd326a8.gif)
 
   <div style="display:flex; flex-direction:column; gap:5px;">
-    <div>Hey folks!! I'm Saurav Kumar Jha👋</div>
+    <div>Hey folks!!! I'm Saurav Kumar Jha👋</div>
     <div>A sophomore IT undergrad:</div>
    <div>- Currently learning Front-end web dev🧑‍💻.</div>
    <div>- Getting into the world of open source🚀.</div>
