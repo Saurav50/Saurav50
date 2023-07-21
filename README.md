@@ -3,7 +3,7 @@
   <div style="display:flex; flex-direction:column; gap:5px;">
     <div>Hey folks!! I'm Saurav Kumar Jha👋</div>
     <div>A sophomore IT undergrad:</div>
-   <div>- Currently learning Front-end web dev🧑‍💻.</div>
+   <div>- Front-end web developer🧑‍💻.</div>
    <div>- Getting into the world of open source🚀.</div>
    <div>- Sharing interest in ui/ux designing✨.</div>
    <div>- Exploring cloud services☁️.</div>
