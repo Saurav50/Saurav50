@@ -1,7 +1,9 @@
 ![github](https://user-images.githubusercontent.com/98273408/194000895-96087cf5-5a48-463d-8e96-94b6bbd326a8.gif)
 
   # 💫 About Me:
-Hey folks!! I'm Saurav Kumar Jha👋<br>A sophomore IT undergrad:<br>- Front-end web developer🧑‍💻.<br>- Getting into the world of open source🚀.<br>- Sharing interest in ui/ux designing✨.<br>- Exploring cloud services☁️.
+  <h1>Hi there! 👋 I'm Saurav Kumar Jha, a Front-End Developer</h1>
+
+I am passionate about creating user-friendly and visually appealing web applications. With a focus on front-end development and expertise in the MERN stack, I enjoy crafting seamless user experiences by combining creativity, technical skills, and problem-solving abilities.
 
 
 ## 🌐 Socials:
