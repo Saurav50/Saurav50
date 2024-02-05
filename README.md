@@ -1,6 +1,6 @@
 
   # 💫 About Me:
-  <h1>Hi there! 👋 I'm Saurav Kumar Jha, a Front-End Developer</h1>
+  <h1>Hi there! 👋 I'm Saurav Kumar Jha, a MERN Stack Developer</h1>
 
 I am passionate about creating user-friendly and visually appealing web applications. With a focus on front-end development and expertise in the MERN stack, I enjoy crafting seamless user experiences by combining creativity, technical skills, and problem-solving abilities.
 
